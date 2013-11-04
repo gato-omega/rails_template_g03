@@ -32,7 +32,7 @@ gem 'devise'
 gem 'haml'
 gem 'simple_form'
 gem 'thin'
-gem 'bootstrap-sass', '~> 2.2.2.0' # must specify version
+gem 'bootstrap-sass', '~> 3.0.1.0.rc' # must specify version
 
 group :development, :staging do
   gem 'hirb'
