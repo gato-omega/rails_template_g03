@@ -48,7 +48,6 @@ group :test do
   gem 'capybara-webkit'
   gem 'shoulda-matchers'
   gem 'database_cleaner'
-  gem 'spork-rails'
 end
 
 # Both test and development

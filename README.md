@@ -19,7 +19,6 @@ And additionally, the following gems were installed and configured
 * faker
 * factory_girl_rails
 * haml
-* spork, with all the stuff
 * quiet_assets
 
 Excluded files in .gitignore have example files in the same location, these are:
